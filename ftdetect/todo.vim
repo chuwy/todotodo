@@ -1,1 +1,1 @@
-au BufNewFile,BufRead schedule.rst set filetype=todo
+au BufNewFile,BufRead {schedule,todo}.rst set filetype=todo
