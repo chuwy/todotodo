@@ -1,1 +1,1 @@
-nnoremap t :call TodotodoDone()<CR>
+nnoremap d :call TodotodoDone()<CR>
